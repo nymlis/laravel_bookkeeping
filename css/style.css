@@ -1,0 +1,29 @@
+.container {
+    width: 1000px;
+    margin: 40px auto;
+}
+
+h1 {
+    border-bottom: 1px solid;
+    font-size: 18px;
+    margin: 16px 0;
+    padding-bottom: 8px;
+}
+
+table {
+    margin: 0 auto;
+}
+
+.input_journals {
+    margin: 0;
+}
+
+.journals {
+    width: 100%;
+    float: left;
+}
+
+.form_border_none {
+    border: none;
+}
+
